@@ -1,4 +1,4 @@
-# Go-Fundamentals-Repo_1
+# Go-Programming-Repo_1
 
 This repository contains the fundamental Go Programming contents: 
 
